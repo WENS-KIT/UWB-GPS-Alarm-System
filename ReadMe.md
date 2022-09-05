@@ -68,7 +68,7 @@ _______
 
   2. connect UWB to window OS using USB to 5-pin cable
   
-  3. run **jFlashLite**
+  3. run **jFlashLite**  
     ![install](https://user-images.githubusercontent.com/62336850/179666457-2ccc5407-7102-4bfd-8421-32a012b46a68.PNG)
   4. init setup
 
